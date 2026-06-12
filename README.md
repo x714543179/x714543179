@@ -1,5 +1,5 @@
-[![GitHub](https://img.shields.io/badge/GitHub-st1623505275-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x714543179)
-[![Visitors](https://komarev.com/ghpvc/?username=st1623505275&style=for-the-badge&color=blue)](https://github.com/x714543179)
+[![GitHub](https://img.shields.io/badge/GitHub-x714543179-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/x714543179)
+[![Visitors](https://komarev.com/ghpvc/?username=x714543179&style=for-the-badge&color=blue)](https://github.com/x714543179)
 
 ---
 
@@ -11,15 +11,6 @@
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=x714543179&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=x714543179&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=x714543179&layout=compact&theme=tokyonight)
-
----
 
 ## Tech Stack
 
