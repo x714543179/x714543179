@@ -13,13 +13,18 @@
 
 
 ## Tech Stack
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
 
+    </td>
+    <td valign="top" width="50%">
 
 ### Robotics & Simulation
 
@@ -28,6 +33,10 @@
 ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-8A2BE2?style=flat-square)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+
+    </td>
+  </tr>
+</table>
 
 
 
