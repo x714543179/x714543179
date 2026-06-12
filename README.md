@@ -6,7 +6,7 @@
 ## About Me
 
 - PhD student at Beijing Institute of Technology
-- Research interests: wheeled-legged robots, quadruped locomotion, reinforcement learning and moiton planning
+- Research interests: wheel-legged robots, quadruped locomotion, reinforcement learning and moiton planning
 - Currently exploring  UniLab / BFM-Zero / Perception-aware Locomotion
 
 ---
